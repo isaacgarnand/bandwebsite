@@ -1,0 +1,17 @@
+body {
+  background: black;
+  color: white;
+}
+
+.sidebar {
+  padding: 25px;
+  width: 30%;
+  float: right;
+  background-color: rgb(224, 241, 74);
+  color: violet;
+}
+
+img {
+  width: 60%;
+  float: left;
+}
